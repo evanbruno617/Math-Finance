@@ -942,6 +942,24 @@ section {
 .about h3 {
   font-weight: 400;
   font-size: 26px;
+  text-align: center;
+}
+
+.about .btn-get-started {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 12px 32px;
+  border-radius: 50px;
+  transition: 0.5s;
+  line-height: 1;
+  margin: 10px;
+  color: black;
+  -webkit-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+  border: 2px solid #68A4C4;
 }
 
 .about ul {
@@ -957,6 +975,11 @@ section {
   font-size: 20px;
   padding-right: 4px;
   color: #68A4C4;
+}
+
+.about p {
+  font-size: 30px;
+
 }
 
 .about p:last-child {
