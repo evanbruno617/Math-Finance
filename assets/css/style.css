@@ -677,6 +677,10 @@ section {
   border: 2px solid #68A4C4;
 }
 
+.services {
+  background-image: url("../../Website Images/competition.png");
+}
+
 
 .services .title {
   font-weight: 700;
