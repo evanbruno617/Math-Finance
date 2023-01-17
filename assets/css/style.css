@@ -1494,6 +1494,13 @@ section {
   justify-content: center;
 }
 
+.team .member-img {
+  float: left;
+  width:  300px;
+  height: 300px;
+  object-fit: cover;
+}
+
 .team .member .social a {
   transition: color 0.3s;
   color: #fff;
